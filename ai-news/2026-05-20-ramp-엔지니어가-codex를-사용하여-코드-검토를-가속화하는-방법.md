@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/ramp
 - Published At: Wed, 20 May 2026 00:00:00 GMT
-- Collected At: 2026-05-25T15:39:22.271Z
+- Collected At: 2026-05-25T15:56:59.570Z
 - Notion Page: https://www.notion.so/OpenAI-News-Ramp-Codex-36bfc93aec5781fda2c7ed8be3215480
 - Original Title: How Ramp engineers accelerate code review with Codex
 ## Summary
