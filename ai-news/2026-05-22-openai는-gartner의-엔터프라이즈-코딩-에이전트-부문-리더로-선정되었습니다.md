@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/gartner-2026-agentic-coding-leader
 - Published At: Fri, 22 May 2026 00:00:00 GMT
-- Collected At: 2026-05-25T15:56:59.317Z
+- Collected At: 2026-05-25T16:04:02.682Z
 - Notion Page: https://www.notion.so/OpenAI-News-OpenAI-Gartner-36bfc93aec5781bdb111f93ebbf72e53
 - Original Title: OpenAI named a Leader in enterprise coding agents by Gartner
 ## Summary
