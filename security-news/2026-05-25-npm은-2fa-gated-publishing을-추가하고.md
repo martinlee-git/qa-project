@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html
 - Published At: unknown
-- Collected At: 2026-05-25T15:39:25.100Z
+- Collected At: 2026-05-25T15:57:04.363Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Npm-2fa-Gated-Publishing-36bfc93aec5781429925e363dcefeca1
 - Original Title: Npm Adds 2fa Gated Publishing And
 ## Summary
