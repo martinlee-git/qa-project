@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html
 - Published At: unknown
-- Collected At: 2026-05-25T15:39:26.180Z
+- Collected At: 2026-05-25T15:57:06.202Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Laravel-Lang-Php-36bfc93aec5781549209c0cfaca2a9c1
 - Original Title: Laravel Lang Php Packages Compromised
 ## Summary
