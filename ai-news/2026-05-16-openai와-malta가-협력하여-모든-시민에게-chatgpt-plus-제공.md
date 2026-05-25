@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/malta-chatgpt-plus-partnership
 - Published At: Sat, 16 May 2026 00:00:00 GMT
-- Collected At: 2026-05-25T15:39:22.471Z
+- Collected At: 2026-05-25T15:56:59.802Z
 - Notion Page: https://www.notion.so/OpenAI-News-OpenAI-Malta-ChatGPT-Plus-36bfc93aec5781daabd3ea6940eaf9a5
 - Original Title: OpenAI and Malta partner to bring ChatGPT Plus to all citizens
 ## Summary
