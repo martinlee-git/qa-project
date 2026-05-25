@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html
 - Published At: unknown
-- Collected At: 2026-05-25T15:57:02.062Z
+- Collected At: 2026-05-25T16:04:05.929Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Alert-Firehose-36bfc93aec57810f9b42deb05ba76afc
 - Original Title: The Alert Firehose Finally Meets Its
 ## Summary
