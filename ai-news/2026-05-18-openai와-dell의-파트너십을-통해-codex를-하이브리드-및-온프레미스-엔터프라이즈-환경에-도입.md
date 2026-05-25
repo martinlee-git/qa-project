@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/dell-codex-enterprise-partnership
 - Published At: Mon, 18 May 2026 10:00:00 GMT
-- Collected At: 2026-05-25T15:39:22.423Z
+- Collected At: 2026-05-25T15:56:59.722Z
 - Notion Page: https://www.notion.so/OpenAI-News-OpenAI-Dell-Codex-36bfc93aec5781808e50da1e8b58f491
 - Original Title: OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments
 ## Summary
