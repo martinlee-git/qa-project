@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html
 - Published At: unknown
-- Collected At: 2026-05-25T15:39:25.790Z
+- Collected At: 2026-05-25T15:57:05.824Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Claude-Mythos-Ai-10000-36bfc93aec5781e194d2c2d7df808b19
 - Original Title: Claude Mythos Ai Finds 10000 High
 ## Summary
