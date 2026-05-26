@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html
 - Published At: unknown
-- Collected At: 2026-05-26T13:22:04.061Z
+- Collected At: 2026-05-26T14:22:02.583Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Microsoft-Sharepoint-Rce-36cfc93aec5781f48b24f42d69adc6ae
 - Original Title: Microsoft Patches Sharepoint Rce Flaw
 ## Summary
