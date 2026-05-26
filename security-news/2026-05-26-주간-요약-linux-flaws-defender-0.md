@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html
 - Published At: unknown
-- Collected At: 2026-05-26T01:12:03.705Z
+- Collected At: 2026-05-26T02:13:02.694Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Linux-Flaws-Defender-0-36bfc93aec57818a9062fac80dfd7a81
 - Original Title: Weekly Recap Linux Flaws Defender 0
 ## Summary
