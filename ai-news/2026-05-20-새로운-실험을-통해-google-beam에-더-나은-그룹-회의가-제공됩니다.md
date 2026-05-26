@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/
 - Published At: Wed, 20 May 2026 16:45:00 +0000
-- Collected At: 2026-05-26T03:14:03.605Z
+- Collected At: 2026-05-26T04:15:04.067Z
 - Notion Page: https://www.notion.so/Google-AI-Blog-Google-Beam-36bfc93aec5781f78463db22c72d159b
 - Original Title: A new experiment brings better group meetings to Google Beam
 ## Summary
