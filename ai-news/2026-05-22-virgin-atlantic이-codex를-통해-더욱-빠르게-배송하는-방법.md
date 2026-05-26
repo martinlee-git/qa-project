@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/virgin-atlantic
 - Published At: Fri, 22 May 2026 00:00:00 GMT
-- Collected At: 2026-05-26T15:23:02.275Z
+- Collected At: 2026-05-26T16:24:01.938Z
 - Notion Page: https://www.notion.so/OpenAI-News-Virgin-Atlantic-Codex-36bfc93aec5781c08934df2baa3bae82
 - Original Title: How Virgin Atlantic ships faster with Codex
 ## Summary
