@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html
 - Published At: unknown
-- Collected At: 2026-05-27T13:41:02.823Z
+- Collected At: 2026-05-27T14:41:02.029Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Glassworm-Malware-Takedown-Disrupts-36dfc93aec57812fa2c1f0e892edb502
 - Original Title: Glassworm Malware Takedown Disrupts
 ## Summary
