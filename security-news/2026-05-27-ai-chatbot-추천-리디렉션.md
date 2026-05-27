@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html
 - Published At: unknown
-- Collected At: 2026-05-27T08:38:02.330Z
+- Collected At: 2026-05-27T09:39:01.382Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Ai-Chatbot-36dfc93aec578136807ee61a95a090bd
 - Original Title: Ai Chatbot Recommendations Redirect
 ## Summary
