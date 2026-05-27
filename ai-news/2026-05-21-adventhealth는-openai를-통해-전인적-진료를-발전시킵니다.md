@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/adventhealth
 - Published At: Thu, 21 May 2026 12:00:00 GMT
-- Collected At: 2026-05-27T12:41:01.192Z
+- Collected At: 2026-05-27T13:41:01.404Z
 - Notion Page: https://www.notion.so/OpenAI-News-AdventHealth-OpenAI-36bfc93aec5781abaa7ff37dbed2db4e
 - Original Title: AdventHealth advances whole-person care with OpenAI
 ## Summary
