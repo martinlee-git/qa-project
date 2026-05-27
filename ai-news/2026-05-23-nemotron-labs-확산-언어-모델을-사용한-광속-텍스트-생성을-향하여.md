@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/nvidia/nemotron-labs-diffusion
 - Published At: Sat, 23 May 2026 00:02:03 GMT
-- Collected At: 2026-05-27T14:41:01.779Z
+- Collected At: 2026-05-27T15:42:01.704Z
 - Notion Page: https://www.notion.so/Hugging-Face-Blog-Nemotron-Labs-36bfc93aec57812bb536cee5346e04ed
 - Original Title: Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models
 ## Summary
