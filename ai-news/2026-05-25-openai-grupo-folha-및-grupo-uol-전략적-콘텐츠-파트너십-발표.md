@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/grupo-folha-grupo-uol-partnership
 - Published At: Mon, 25 May 2026 00:00:00 GMT
-- Collected At: 2026-05-27T18:23:28.423Z
+- Collected At: 2026-05-27T18:25:35.408Z
 - Notion Page: https://www.notion.so/OpenAI-News-OpenAI-Grupo-Folha-Grupo-UOL-36bfc93aec57816890f0fc01ec2a3afc
 - Original Title: OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership
 ## Summary
