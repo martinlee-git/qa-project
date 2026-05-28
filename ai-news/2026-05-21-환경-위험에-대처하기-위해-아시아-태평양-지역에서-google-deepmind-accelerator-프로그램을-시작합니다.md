@@ -3,11 +3,11 @@
 - Category: ai_news
 - Original URL: https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/
 - Published At: Thu, 21 May 2026 19:46:42 +0000
-- Collected At: 2026-05-28T12:48:01.265Z
+- Collected At: 2026-05-28T13:49:01.422Z
 - Notion Page: https://www.notion.so/Google-DeepMind-Google-DeepMind-Accelerator-36bfc93aec57813e9ddee4b859b13d99
 - Original Title: We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks
 ## Summary
-아시아태평양 지역은 글로벌 경제 성장의 원동력이지만 기후 변화에 매우 취약한 지역이기도 합니다. 녹색 기술이 탄력을 받고 있는 가운데, 최근… 아시아태평양 지역은 글로벌 경제 성장의 원동력이지만 기후 변화에 매우 취약한 지역이기도 합니다. 녹색 기술이 추진력을 얻고 있지만, 최근 보고서에 따르면 해당 기술이 지역의 증가하는 환경 위험을 따라잡을 만큼 빠르게 확장되지 않는 것으로 나타났습니다. 혁신가들이 이러한 환경 문제를 해결할 수 있도록 돕기 위해 우리는 "지구를 위한 AI"에 초점을 맞춘 첫 번째 Google DeepMind Accelerator 프로그램을 APAC에서 출시할 예정입니다. 이 3개월 프로그램은 전 세계의 스타트업, 연구팀 및 비영리 단체를 위해 설계되었습니다.
+아시아태평양 지역은 글로벌 경제 성장의 원동력이지만 기후 변화에 매우 취약한 지역이기도 합니다. 녹색 기술이 탄력을 받고 있는 가운데, 최근… 아시아태평양 지역은 글로벌 경제 성장의 원동력이지만 기후 변화에 매우 취약한 지역이기도 합니다. 녹색 기술이 추진력을 얻고 있지만, 최근 보고서에 따르면 해당 기술이 지역의 증가하는 환경 위험을 따라잡을 만큼 빠르게 확장되지 않는 것으로 나타났습니다. 혁신가들이 이러한 환경 문제를 해결할 수 있도록 돕기 위해 우리는 "지구를 위한 AI"에 초점을 맞춘 첫 번째 Google DeepMind Accelerator 프로그램을 APAC에서 출시할 예정입니다. 이 3개월 프로그램은 전 세계의 스타트업, 연구 팀 및 비영리 단체를 위해 설계되었습니다.
 
 ## Original Description
 
