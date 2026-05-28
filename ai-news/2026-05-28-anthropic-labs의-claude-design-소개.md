@@ -3,11 +3,11 @@
 - Category: ai_news
 - Original URL: https://www.anthropic.com/news/claude-design-anthropic-labs
 - Published At: unknown
-- Collected At: 2026-05-28T15:50:15.026Z
+- Collected At: 2026-05-28T16:51:00.807Z
 - Notion Page: https://www.notion.so/Anthropic-News-Anthropic-Labs-Claude-Design-36bfc93aec5781cda3e5f6b1d21e6433
 - Original Title: Introducing Claude Design by Anthropic Labs
 ## Summary
-오늘 우리는 Claude와 협력하여 디자인, 프로토타입, 슬라이드, 단일 페이지 등과 같은 세련된 시각적 작업을 만들 수 있는 새로운 Anthropic Labs 제품인 Claude Design을 출시합니다. 오늘 우리는 Claude와 협력하여 디자인, 프로토타입, 슬라이드, 단일 페이지 등과 같은 세련된 시각적 작업을 만들 수 있는 새로운 Anthropic Labs 제품인 Claude Design을 출시합니다. Claude Design은 당사의 가장 유능한 비전 모델인 Claude Opus 4.7을 기반으로 하며 Claude Pro, Max, Team 및 Enterprise 구독자를 위한 연구 미리 보기에서 사용할 수 있습니다. 우리는 하루 종일 점진적으로 사용자에게 출시할 예정입니다. 숙련된 디자이너라도 탐색을 배분해야 합니다. 프로토타입을 만들 시간은 거의 없습니다…
+오늘 우리는 Claude와 협력하여 디자인, 프로토타입, 슬라이드, 단일 페이지 등과 같은 세련된 시각적 작업을 만들 수 있는 새로운 Anthropic Labs 제품인 Claude Design을 출시합니다. 오늘 우리는 Claude와 협력하여 디자인, 프로토타입, 슬라이드, 단일 페이지 등과 같은 세련된 시각적 작업을 만들 수 있는 새로운 Anthropic Labs 제품인 Claude Design을 출시합니다. Claude Design은 당사의 가장 유능한 비전 모델인 Claude Opus 4.7을 기반으로 하며 Claude Pro, Max, Team 및 Enterprise 구독자를 위한 연구 미리 보기에서 사용할 수 있습니다. 우리는 하루 종일 점진적으로 사용자에게 출시할 예정입니다. 숙련된 디자이너라도 탐색을 배분해야 합니다. 프로토타입을 작성할 시간이 거의 없습니다…
 
 ## Original Description
 
