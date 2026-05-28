@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/ibm-research/itbench-aa
 - Published At: Wed, 27 May 2026 17:20:29 GMT
-- Collected At: 2026-05-28T15:50:00.076Z
+- Collected At: 2026-05-28T16:50:59.998Z
 - Notion Page: https://www.notion.so/Hugging-Face-Blog-ITBench-AA-IBM-Agentic-Enterprise-IT-50-36dfc93aec57819bb344ddec9565b628
 - Original Title: ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM
 ## Summary
