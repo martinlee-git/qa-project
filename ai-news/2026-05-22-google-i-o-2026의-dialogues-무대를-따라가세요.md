@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/
 - Published At: Fri, 22 May 2026 18:00:00 +0000
-- Collected At: 2026-05-28T12:48:00.992Z
+- Collected At: 2026-05-28T13:49:00.882Z
 - Notion Page: https://www.notion.so/Google-AI-Blog-Google-I-O-2026-Dialogues-36bfc93aec5781ba9fb2c476143b22d0
 - Original Title: Catch up on the Dialogues stage at Google I/O 2026.
 ## Summary
