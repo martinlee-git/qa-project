@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html
 - Published At: unknown
-- Collected At: 2026-05-28T15:50:02.229Z
+- Collected At: 2026-05-28T16:51:06.030Z
 - Notion Page: https://www.notion.so/The-Hacker-News-AI-Enterprise-Ai-Risk-36efc93aec578120a4e3c682da9a3bd2
 - Original Title: New Ai Usage Report Enterprise Ai Risk
 ## Summary
