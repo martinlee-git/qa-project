@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
 - Published At: Fri, 29 May 2026 12:00:00 +0000
-- Collected At: 2026-05-29T18:09:59.991Z
+- Collected At: 2026-05-29T19:11:00.615Z
 - Notion Page: https://www.notion.so/Google-AI-Blog-Futures-Lab-AI-36ffc93aec5781b5bf3ecf827e29dadb
 - Original Title: Check out real-life AI prototypes from the Futures Lab.
 ## Summary
