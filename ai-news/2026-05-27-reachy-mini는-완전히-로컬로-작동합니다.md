@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/local-reachy-mini-conversation
 - Published At: Wed, 27 May 2026 00:00:00 GMT
-- Collected At: 2026-05-29T04:59:59.659Z
+- Collected At: 2026-05-29T06:00:59.945Z
 - Notion Page: https://www.notion.so/Hugging-Face-Blog-Reachy-Mini-36dfc93aec5781f7b8f1e20529cefac2
 - Original Title: Reachy Mini goes fully local
 ## Summary
