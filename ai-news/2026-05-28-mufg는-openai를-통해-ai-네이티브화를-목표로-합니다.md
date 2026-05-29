@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/mufg
 - Published At: Thu, 28 May 2026 00:00:00 GMT
-- Collected At: 2026-05-29T09:02:59.377Z
+- Collected At: 2026-05-29T10:02:59.312Z
 - Notion Page: https://www.notion.so/OpenAI-News-MUFG-OpenAI-AI-36ffc93aec5781f682dffe6f64ec74ec
 - Original Title: MUFG aims to become AI-native with OpenAI
 ## Summary
