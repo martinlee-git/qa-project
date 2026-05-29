@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html
 - Published At: unknown
-- Collected At: 2026-05-29T02:59:01.057Z
+- Collected At: 2026-05-29T04:00:01.107Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Claude-Security-36efc93aec5781a09b72c2098158a0dd
 - Original Title: Threatsday Bulletin Claude Security
 ## Summary
