@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html
 - Published At: unknown
-- Collected At: 2026-05-29T11:04:01.646Z
+- Collected At: 2026-05-29T12:05:00.166Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Sicoob-Nuget-36ffc93aec5781398a6afbb7baf2de57
 - Original Title: Malicious Sicoob Nuget Steals Banking
 ## Summary
