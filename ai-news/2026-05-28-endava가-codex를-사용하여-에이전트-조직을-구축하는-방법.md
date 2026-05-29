@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/endava
 - Published At: Thu, 28 May 2026 12:00:00 GMT
-- Collected At: 2026-05-29T09:02:59.309Z
+- Collected At: 2026-05-29T10:02:59.254Z
 - Notion Page: https://www.notion.so/OpenAI-News-Endava-Codex-36efc93aec5781f894d6d7a0e6e8787a
 - Original Title: How Endava builds an agentic organization with Codex
 ## Summary
