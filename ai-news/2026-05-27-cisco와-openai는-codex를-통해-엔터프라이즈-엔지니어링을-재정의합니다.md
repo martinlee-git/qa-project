@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/cisco
 - Published At: Wed, 27 May 2026 11:00:00 GMT
-- Collected At: 2026-05-29T08:01:59.604Z
+- Collected At: 2026-05-29T09:02:59.510Z
 - Notion Page: https://www.notion.so/OpenAI-News-Cisco-OpenAI-Codex-36dfc93aec5781efb575f30f1211c8b1
 - Original Title: Cisco and OpenAI redefine enterprise engineering with Codex
 ## Summary
