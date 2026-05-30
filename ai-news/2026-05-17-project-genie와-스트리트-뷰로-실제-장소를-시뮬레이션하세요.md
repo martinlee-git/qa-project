@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/
 - Published At: Sun, 17 May 2026 19:53:18 +0000
-- Collected At: 2026-05-30T21:33:00.376Z
+- Collected At: 2026-05-30T22:34:00.295Z
 - Notion Page: https://www.notion.so/Google-DeepMind-Project-Genie-36bfc93aec57811aa22af2032df893cf
 - Original Title: Simulate real-world places with Project Genie and Street View
 ## Summary
