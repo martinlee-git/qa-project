@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/boston-childrens-hospital
 - Published At: Fri, 29 May 2026 12:00:00 GMT
-- Collected At: 2026-05-30T01:15:58.618Z
+- Collected At: 2026-05-30T02:16:58.624Z
 - Notion Page: https://www.notion.so/OpenAI-News-Boston-Children-s-AI-36ffc93aec5781b6af06c941a362b9cf
 - Original Title: Boston Children’s uses AI to unlock new diagnoses
 ## Summary
