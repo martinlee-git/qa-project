@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html
 - Published At: unknown
-- Collected At: 2026-05-31T11:41:57.645Z
+- Collected At: 2026-05-31T12:42:58.177Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Pan-Os-Globalprotect-370fc93aec57813cb70ef91eea611115
 - Original Title: Pan Os Globalprotect Authentication
 ## Summary
