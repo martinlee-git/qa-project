@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/braintrust
 - Published At: Fri, 29 May 2026 12:00:00 GMT
-- Collected At: 2026-06-01T00:50:56.797Z
+- Collected At: 2026-06-01T01:51:56.824Z
 - Notion Page: https://www.notion.so/OpenAI-News-Braintrust-Codex-36ffc93aec57814184dfc5d08be87005
 - Original Title: How Braintrust turns customer requests into code with Codex
 ## Summary
