@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html
 - Published At: unknown
-- Collected At: 2026-06-01T20:03:58.482Z
+- Collected At: 2026-06-01T21:04:58.525Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Linux-Pan-Os-372fc93aec5781db9954cab56aac6ff4
 - Original Title: Weekly Recap New Linux Flaw Pan Os
 ## Summary
