@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html
 - Published At: unknown
-- Collected At: 2026-06-01T03:52:58.778Z
+- Collected At: 2026-06-01T04:53:58.237Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Chatgphish-Chatgpt-36ffc93aec5781a79cbeca86783bb155
 - Original Title: Chatgphish Vulnerability Turns Chatgpt
 ## Summary
