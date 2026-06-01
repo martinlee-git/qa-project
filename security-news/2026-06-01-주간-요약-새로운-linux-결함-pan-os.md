@@ -3,11 +3,11 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html
 - Published At: unknown
-- Collected At: 2026-06-01T22:05:56.098Z
+- Collected At: 2026-06-01T23:05:59.057Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Linux-Pan-Os-372fc93aec5781db9954cab56aac6ff4
 - Original Title: Weekly Recap New Linux Flaw Pan Os
 ## Summary
-월요일 사이버 보안 요약에서는 분노 문제가 있는 크론 작업처럼 방어자가 알아야 할 최신 디지털 위협, 노출된 약점, 적극적인 공격 및 보안 사례를 다룹니다. 여기에는 망가진 인증 경로, 거기에는 저장소측 페이스플랜트, 이미 야생에서 씹어먹고 있는 일부 "패치된" 것, 그리고 일반적인 보너스 라운드가 있습니다. 중독된 개발 도구, 대략적인 포럼 채팅, 생산성을 가장하는 피싱 키트, 이미 '컬 | 그 사람은 개성이 있었어요. 분위기는 간단합니다. 오래된 버그, 새로운 래퍼, 더 빠른 남용입니다. 명백한 쓰레기를 먼저 패치하십시오. 그런 다음 나머지 부분을 읽어보세요. 악용 시 PAN-OS GlobalProtect 인증 우회 - Palo A…
+월요일 사이버 보안 요약에서는 분노 문제가 있는 크론 작업처럼 방어자가 알아야 할 최신 디지털 위협, 노출된 약점, 적극적인 공격 및 보안 사례를 다룹니다. 여기에는 망가진 인증 경로, 거기에는 저장소측 페이스플랜트, 이미 야생에서 씹어먹고 있는 일부 "패치된" 것, 그리고 일반적인 보너스 라운드가 있습니다. 중독된 개발 도구, 대략적인 포럼 채팅, 생산성을 가장하는 피싱 키트, 이미 '컬 | 그 사람은 개성이 있었어요. 분위기는 간단합니다. 오래된 버그, 새로운 래퍼, 더 빠른 남용입니다. 명백한 쓰레기를 먼저 패치하십시오. 그런 다음 나머지 부분을 읽어보세요. 악용 시 PAN-OS GlobalProtect 인증 우회 - Palo A...
 
 ## Original Description
 
