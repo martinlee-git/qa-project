@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
 - Published At: Fri, 29 May 2026 03:00:00 GMT
-- Collected At: 2026-06-01T09:56:56.577Z
+- Collected At: 2026-06-01T10:57:56.628Z
 - Notion Page: https://www.notion.so/OpenAI-News-Rosalind-Biodefense-36ffc93aec5781eca20ceef463217880
 - Original Title: Strengthening societal resilience with Rosalind Biodefense
 ## Summary
