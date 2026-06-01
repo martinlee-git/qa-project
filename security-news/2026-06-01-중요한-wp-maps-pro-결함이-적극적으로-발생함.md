@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html
 - Published At: unknown
-- Collected At: 2026-06-01T11:58:59.479Z
+- Collected At: 2026-06-01T12:59:59.776Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Wp-Maps-Pro-372fc93aec578166aa39d750a0108dd5
 - Original Title: Critical Wp Maps Pro Flaw Actively
 ## Summary
