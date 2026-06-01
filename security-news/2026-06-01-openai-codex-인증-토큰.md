@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html
 - Published At: unknown
-- Collected At: 2026-06-01T11:58:58.409Z
+- Collected At: 2026-06-01T12:59:58.717Z
 - Notion Page: https://www.notion.so/The-Hacker-News-Openai-Codex-372fc93aec57811594bffbed3c3afaa7
 - Original Title: Openai Codex Authentication Tokens
 ## Summary
