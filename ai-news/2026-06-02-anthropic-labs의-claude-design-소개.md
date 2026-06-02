@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://www.anthropic.com/news/claude-design-anthropic-labs
 - Published At: unknown
-- Collected At: 2026-06-02T16:18:03.119Z
+- Collected At: 2026-06-02T17:18:13.338Z
 - Notion Page: https://www.notion.so/Anthropic-News-Anthropic-Labs-Claude-Design-36bfc93aec5781cda3e5f6b1d21e6433
 - Original Title: Introducing Claude Design by Anthropic Labs
 ## Summary
