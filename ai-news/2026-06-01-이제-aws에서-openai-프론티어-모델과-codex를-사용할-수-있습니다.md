@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws
 - Published At: Mon, 01 Jun 2026 10:00:00 GMT
-- Collected At: 2026-06-02T06:11:55.758Z
+- Collected At: 2026-06-02T07:11:56.209Z
 - Notion Page: https://www.notion.so/OpenAI-News-AWS-OpenAI-Codex-372fc93aec57818b9fc9fc5b52a30388
 - Original Title: OpenAI frontier models and Codex are now available on AWS
 ## Summary
