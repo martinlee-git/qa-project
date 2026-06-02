@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/travelers
 - Published At: Tue, 02 Jun 2026 12:00:00 GMT
-- Collected At: 2026-06-02T17:17:55.358Z
+- Collected At: 2026-06-02T18:18:55.878Z
 - Notion Page: https://www.notion.so/OpenAI-News-Travelers-OpenAI-AI-373fc93aec57811ca2c6c2d0794ec0ad
 - Original Title: Travelers deploys AI-powered claims countrywide with OpenAI
 ## Summary
