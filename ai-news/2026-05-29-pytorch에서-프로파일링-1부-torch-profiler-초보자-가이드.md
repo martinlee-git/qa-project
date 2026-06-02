@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/torch-profiler
 - Published At: Fri, 29 May 2026 00:00:00 GMT
-- Collected At: 2026-06-02T00:06:56.870Z
+- Collected At: 2026-06-02T01:07:56.751Z
 - Notion Page: https://www.notion.so/Hugging-Face-Blog-PyTorch-1-torch-profiler-36ffc93aec578124ae7cd6352d3f0eea
 - Original Title: Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler
 ## Summary
