@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/JetBrains/mellum2-launch
 - Published At: Mon, 01 Jun 2026 15:45:17 GMT
-- Collected At: 2026-06-02T10:13:55.585Z
+- Collected At: 2026-06-02T11:13:55.721Z
 - Notion Page: https://www.notion.so/Hugging-Face-Blog-Mellum2-JetBrains-12B-372fc93aec578155803bfc74d2ed596b
 - Original Title: Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains
 ## Summary
