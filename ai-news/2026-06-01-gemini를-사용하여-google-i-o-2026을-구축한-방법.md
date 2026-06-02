@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/
 - Published At: Mon, 01 Jun 2026 16:00:00 +0000
-- Collected At: 2026-06-02T02:07:56.439Z
+- Collected At: 2026-06-02T03:08:56.492Z
 - Notion Page: https://www.notion.so/Google-AI-Blog-Gemini-Google-I-O-2026-372fc93aec578182ad3fee70c6cffaa1
 - Original Title: How we used Gemini to build Google I/O 2026
 ## Summary
