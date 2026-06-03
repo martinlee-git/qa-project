@@ -3,11 +3,11 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/JetBrains/mellum2-launch
 - Published At: Mon, 01 Jun 2026 15:45:17 GMT
-- Collected At: 2026-06-03T07:27:54.828Z
+- Collected At: 2026-06-03T08:28:54.971Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Mellum2-JetBrains-12B-372fc93aec578155803bfc74d2ed596b
 - Original Title: Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains
 ## Summary
-Hugging Face 벤치마크에 대한 JetBrains의 블로그 게시물에서는 주요 사용 사례 라우팅 및 오케스트레이션 RAG 파이프라인 하위 에이전트 비공개 배포 범위가 넓은 모델이 중요한 이유 Mellum2 시작하기 오늘 우리는 대기 시간이 짧은 텍스트 및 코드 워크로드에 최적화된 개방형 전문가 혼합 모델인 Mellum2를 출시합니다. Mellum은 원래 코드 완성 모델로 시작되었습니다. Mellum2를 사용하면 효율적인 추론 및 배포 가능성에 초점을 맞춘 모델을 유지하면서 해당 기반을 더 광범위한 자연어 및 소프트웨어 엔지니어링 작업으로 확장합니다. 현대 AI 시스템은 라우팅, 검색, 요약, 계획, 검증, 도구 사용 등 다양한 모델 호출에 점점 더 의존하고 있습니다. 많은…
+Hugging Face 벤치마크에 대한 JetBrains의 블로그 게시물에서는 주요 사용 사례 라우팅 및 오케스트레이션 RAG 파이프라인 하위 에이전트 비공개 배포 범위가 넓은 모델이 중요한 이유 Mellum2 시작하기 오늘 우리는 대기 시간이 짧은 텍스트 및 코드 워크로드에 최적화된 개방형 전문가 혼합 모델인 Mellum2를 출시합니다. Mellum은 원래 코드 완성 모델로 시작되었습니다. Mellum2를 사용하면 모델이 효율적인 추론 및 배포 가능성에 초점을 맞추는 동시에 보다 광범위한 자연어 및 소프트웨어 엔지니어링 작업 세트로 해당 기반을 확장합니다. 현대 AI 시스템은 라우팅, 검색, 요약, 계획, 검증, 도구 사용 등 다양한 모델 호출에 점점 더 의존하고 있습니다. 많은…
 
 ## Original Description
 
