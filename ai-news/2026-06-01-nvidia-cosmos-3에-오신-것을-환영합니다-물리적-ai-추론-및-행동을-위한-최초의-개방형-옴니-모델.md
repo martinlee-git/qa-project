@@ -3,8 +3,8 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai
 - Published At: Mon, 01 Jun 2026 04:44:55 GMT
-- Collected At: 2026-06-03T00:22:56.024Z
-- Notion Page: https://www.notion.so/Hugging-Face-Blog-NVIDIA-Cosmos-3-AI-372fc93aec5781c78a60ccf2deb8a116
+- Collected At: 2026-06-03T01:23:55.787Z
+- Notion Page: https://app.notion.com/p/Hugging-Face-Blog-NVIDIA-Cosmos-3-AI-372fc93aec5781c78a60ccf2deb8a116
 - Original Title: Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action
 ## Summary
 Hugging Face에 대한 NVIDIA 블로그 게시물 섹션 1: Cosmos 3의 새로운 기능은 무엇입니까? 섹션 2: Cosmos 3 기능 섹션 3: Diffuser와 함께 Cosmos 3 사용 섹션 4: 물리적 AI용 데이터 세트 섹션 5: Cosmos 프레임워크 섹션 6: 리소스 감사 인사 NVIDIA Cosmos 3가 출시되었습니다. 오늘 Hugging Face에서 만나보실 수 있습니다. Cosmos 3는 물리적 AI를 위한 WFM(World Foundation Model)의 주요 도약을 나타냅니다. 즉, 세계 생성, 물리적 추론 및 동작 생성을 하나의 모델에 결합한 단일 통합 옴니 모델입니다. 더 이상 서로 다른 모델과 추론 파이프라인 사이를 저글링할 필요가 없습니다. Cosmos 3가 모든 것을 수행합니다. 로봇공학, 자율주행차, 스마트 공간 등 어떤 용도로든 Cosmos는…
