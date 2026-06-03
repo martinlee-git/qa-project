@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/unpatched-windows-search-uri.html
 - Published At: unknown
-- Collected At: 2026-06-03T11:30:57.438Z
+- Collected At: 2026-06-03T12:31:55.800Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Windows-Uri-374fc93aec57816aaa01c8f6f672a6e6
 - Original Title: Unpatched Windows Search Uri
 ## Summary
