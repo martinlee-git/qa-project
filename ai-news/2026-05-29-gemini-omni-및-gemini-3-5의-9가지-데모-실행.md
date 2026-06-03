@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/
 - Published At: Fri, 29 May 2026 17:30:00 +0000
-- Collected At: 2026-06-03T18:35:55.919Z
+- Collected At: 2026-06-03T19:35:56.114Z
 - Notion Page: https://app.notion.com/p/Google-AI-Blog-Gemini-Omni-Gemini-3-5-11-36ffc93aec5781ae80f6f1cbc48cbec8
 - Original Title: 9 demos of Gemini Omni and Gemini 3.5 in action
 ## Summary
