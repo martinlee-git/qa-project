@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html
 - Published At: unknown
-- Collected At: 2026-06-03T15:33:57.819Z
+- Collected At: 2026-06-03T16:34:57.537Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Microsoft-365-Android-374fc93aec5781f1830ec63175c42295
 - Original Title: Microsoft 365 Android Apps Let Any App
 ## Summary
