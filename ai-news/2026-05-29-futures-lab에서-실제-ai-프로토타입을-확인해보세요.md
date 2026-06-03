@@ -3,8 +3,8 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/
 - Published At: Fri, 29 May 2026 12:00:00 +0000
-- Collected At: 2026-06-03T00:22:56.888Z
-- Notion Page: https://www.notion.so/Google-AI-Blog-Futures-Lab-AI-36ffc93aec5781b5bf3ecf827e29dadb
+- Collected At: 2026-06-03T01:23:56.594Z
+- Notion Page: https://app.notion.com/p/Google-AI-Blog-Futures-Lab-AI-36ffc93aec5781b5bf3ecf827e29dadb
 - Original Title: Check out real-life AI prototypes from the Futures Lab.
 ## Summary
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FutureLabs_social.max-600x600.format-webp.webp">워털루 대학교 학생들은 교육과 업무의 미래를 재편하기 위해 수화 교사와 같은 AI 프로토타입을 개발합니다. AI가 생성한 맞춤형 스토리를 통해 일본어를 배울 수 있거나, 실시간 피드백을 제공하는 AI 튜터와 함께 수화를 연습할 수 있다면 어떨까요? 이는 Google이 자금을 지원하고 워털루 대학교와 파트너십을 맺은 Futures Lab의 학생들이 제작한 작동 중인 프로토타입입니다. 각 랩은 8주 동안 집중적으로 진행되는 AI 및 사용자 경험 프로토타이핑 워크숍입니다. 컴퓨터 과학, 비즈니스, 자연 과학 등 다양한 분야의 학생들이 도구 개발…
