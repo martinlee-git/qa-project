@@ -3,8 +3,8 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/
 - Published At: Fri, 29 May 2026 19:00:00 +0000
-- Collected At: 2026-06-03T00:22:56.049Z
-- Notion Page: https://www.notion.so/Google-AI-Blog-Google-AI-Studio-I-O-2026-36ffc93aec578196a6d3fff5e6f96ddb
+- Collected At: 2026-06-03T01:23:55.836Z
+- Notion Page: https://app.notion.com/p/Google-AI-Blog-Google-AI-Studio-I-O-2026-36ffc93aec578196a6d3fff5e6f96ddb
 - Original Title: Take our I/O 2026 quiz, vibe coded in Google AI Studio.
 ## Summary
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp">우리는 Google AI Studio를 사용하여 주요 I/O 2026 발표에 대한 퀴즈를 작성했습니다. 알림, 빌더 및 개발자: Google AI Studio에서 구축된 이 분위기 코딩 퀴즈를 통해 I/O 2026 발표에 대한 지식을 테스트할 수 있습니다. 혹시 놓치셨다면 Google I/O 2026에서 Google AI Studio를 사용할 수 있는 새로운 방법과 장소를 발표했습니다. Antigravity 코딩 에이전트로 구동되는 Google AI Studio를 사용하면 숙련된 개발자가 아니더라도 최신 Gemini 모델로 아이디어를 생생하게 구현할 수 있습니다. 예를 들어, 저는 이 퀴즈를 직접 바이브 코딩했습니다. 그리고 저는 코딩이 전혀 없는 편집자입니다…
