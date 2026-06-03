@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html
 - Published At: unknown
-- Collected At: 2026-06-03T10:29:55.810Z
+- Collected At: 2026-06-03T11:30:59.170Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Weedhack-Minecraft-374fc93aec5781fdb247f650435f2971
 - Original Title: Weedhack Attacks Minecraft Users
 ## Summary
