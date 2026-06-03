@@ -3,8 +3,8 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/travelers
 - Published At: Tue, 02 Jun 2026 12:00:00 GMT
-- Collected At: 2026-06-03T00:22:55.052Z
-- Notion Page: https://www.notion.so/OpenAI-News-Travelers-OpenAI-AI-373fc93aec57811ca2c6c2d0794ec0ad
+- Collected At: 2026-06-03T01:23:55.023Z
+- Notion Page: https://app.notion.com/p/OpenAI-News-Travelers-OpenAI-AI-373fc93aec57811ca2c6c2d0794ec0ad
 - Original Title: Travelers deploys AI-powered claims countrywide with OpenAI
 ## Summary
 Travelers는 OpenAI를 사용하여 AI 기반 청구 도우미를 구축하여 고객에게 청구서를 제출하도록 안내하고, 연중무휴 지원을 제공하며, 수요가 가장 많을 때 운영을 확장합니다.
