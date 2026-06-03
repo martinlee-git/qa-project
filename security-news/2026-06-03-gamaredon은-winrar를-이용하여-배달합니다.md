@@ -3,8 +3,8 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html
 - Published At: unknown
-- Collected At: 2026-06-03T00:22:57.494Z
-- Notion Page: https://www.notion.so/The-Hacker-News-Gamaredon-Winrar-373fc93aec57814cae85d86b8d374421
+- Collected At: 2026-06-03T01:23:56.437Z
+- Notion Page: https://app.notion.com/p/The-Hacker-News-Gamaredon-Winrar-373fc93aec57814cae85d86b8d374421
 - Original Title: Gamaredon Exploits Winrar To Deliver
 ## Summary
 Gamaredon은 2026년 1월 간첩 캠페인에서 GammaPhish와 GammaWorm을 사용하여 우크라이나 전역에서 은밀한 지속성과 데이터 도난을 가능하게 했습니다. Gamaredon으로 알려진 러시아 해킹 그룹은 데이터 절도 및 전파를 목표로 하는 여러 악성 코드군을 전달하기 위해 WinRAR 취약점을 지속적으로 악용한 것으로 알려져 있습니다. Sekoia에 따르면 이 활동에는 WinRAR의 경로 탐색 결함인 CVE-2025-8088을 무기화하여 GammaPhish라는 HTML 애플리케이션 페이로드를 실행한 다음 코드명 GammaLoad라는 중간 Visual Basic Script(VBScript) 다운로더를 검색하는 데 사용됩니다. 감염 체인은 2026년 1월 프랑스 사이버 보안 회사에 의해 관찰되었습니다. "그들의…
