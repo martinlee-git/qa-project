@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html
 - Published At: unknown
-- Collected At: 2026-06-03T07:27:57.277Z
+- Collected At: 2026-06-03T08:28:56.065Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Gamaredon-Winrar-373fc93aec57814cae85d86b8d374421
 - Original Title: Gamaredon Exploits Winrar To Deliver
 ## Summary
