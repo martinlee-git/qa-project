@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html
 - Published At: unknown
-- Collected At: 2026-06-03T21:36:54.541Z
+- Collected At: 2026-06-03T22:37:56.414Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Whatsapp-Slack-374fc93aec578195a5d9d5677c78eb72
 - Original Title: Whatsapp Slack Notifications Could
 ## Summary
