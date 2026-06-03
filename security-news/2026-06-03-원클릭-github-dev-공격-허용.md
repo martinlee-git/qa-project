@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html
 - Published At: unknown
-- Collected At: 2026-06-03T14:32:55.262Z
+- Collected At: 2026-06-03T15:33:59.639Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Github-Dev-374fc93aec5781429a3bda143454c3fd
 - Original Title: One Click Github Dev Attack Lets
 ## Summary
