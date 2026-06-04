@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html
 - Published At: unknown
-- Collected At: 2026-06-04T11:47:55.817Z
+- Collected At: 2026-06-04T12:48:55.180Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Fluttershell-Macos-375fc93aec578106af60d87372126faf
 - Original Title: Fluttershell Backdoor Spreads To Macos
 ## Summary
