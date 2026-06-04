@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr
 - Published At: Thu, 04 Jun 2026 12:59:35 GMT
-- Collected At: 2026-06-04T17:51:53.502Z
+- Collected At: 2026-06-04T18:52:53.409Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Nemotron-3-5-ASR-375fc93aec5781f6a337d18fe07f9f0f
 - Original Title: How to Fine-Tune Nemotron 3.5 ASR for Your Language, Domain, or Accent
 ## Summary
