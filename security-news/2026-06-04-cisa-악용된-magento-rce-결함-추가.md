@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html
 - Published At: unknown
-- Collected At: 2026-06-04T08:45:55.420Z
+- Collected At: 2026-06-04T09:45:56.606Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Cisa-Magento-Rce-375fc93aec578187af00cccd754b4003
 - Original Title: Cisa Adds Exploited Magento Rce Flaw
 ## Summary
