@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html
 - Published At: unknown
-- Collected At: 2026-06-04T17:51:55.593Z
+- Collected At: 2026-06-04T18:52:57.127Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Agentic-Ai-375fc93aec5781a39063c625a9772ce8
 - Original Title: Agentic Ai Is Transforming Defense But
 ## Summary
