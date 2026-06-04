@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/nvidia/task-seeded-sdg
 - Published At: Thu, 04 Jun 2026 11:24:53 GMT
-- Collected At: 2026-06-04T11:47:53.655Z
+- Collected At: 2026-06-04T12:48:53.935Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Nemotron-Q-A-375fc93aec5781f8a5f8e501f823a552
 - Original Title: Task-Seeded Synthetic Q&A Generation for Nemotron Pretraining
 ## Summary
