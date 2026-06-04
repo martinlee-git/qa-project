@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
 - Published At: Wed, 03 Jun 2026 13:15:00 GMT
-- Collected At: 2026-06-04T18:52:53.149Z
+- Collected At: 2026-06-04T19:53:53.208Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-GPT-Rosalind-374fc93aec5781a18173cc60d40b9b87
 - Original Title: Introducing new capabilities to GPT-Rosalind
 ## Summary
