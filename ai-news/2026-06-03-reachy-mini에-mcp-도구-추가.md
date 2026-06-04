@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
 - Published At: Wed, 03 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-04T06:43:54.098Z
+- Collected At: 2026-06-04T07:44:54.218Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Reachy-Mini-MCP-374fc93aec578189afe0d2611d099c2f
 - Original Title: Adding MCP Tools to Reachy Mini
 ## Summary
