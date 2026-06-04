@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/wasmer
 - Published At: Wed, 03 Jun 2026 12:00:00 GMT
-- Collected At: 2026-06-04T06:43:53.812Z
+- Collected At: 2026-06-04T07:44:53.762Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-Wasmer-Codex-Node-js-374fc93aec57813f950fd4f8f37d1b19
 - Original Title: How Wasmer used Codex to build a Node.js runtime for the edge
 ## Summary
