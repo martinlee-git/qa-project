@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html
 - Published At: unknown
-- Collected At: 2026-06-04T01:40:55.401Z
+- Collected At: 2026-06-04T02:40:56.691Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Google-Doubleclick-374fc93aec5781d3b2c3f78e318c73f2
 - Original Title: Google Doubleclick Abused In New
 ## Summary
