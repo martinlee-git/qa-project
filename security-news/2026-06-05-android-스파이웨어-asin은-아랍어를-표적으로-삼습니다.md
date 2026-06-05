@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html
 - Published At: unknown
-- Collected At: 2026-06-05T22:12:52.967Z
+- Collected At: 2026-06-05T23:13:55.634Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Android-Asin-376fc93aec5781108d39dc602d900fa9
 - Original Title: Android Spyware Asin Targets Arabic
 ## Summary
