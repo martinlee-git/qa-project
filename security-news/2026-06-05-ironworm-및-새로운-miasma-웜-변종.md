@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html
 - Published At: unknown
-- Collected At: 2026-06-05T19:10:53.362Z
+- Collected At: 2026-06-05T20:11:53.886Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Ironworm-Miasma-376fc93aec5781008b96cf39ee582586
 - Original Title: Ironworm And New Miasma Worm Variant
 ## Summary
