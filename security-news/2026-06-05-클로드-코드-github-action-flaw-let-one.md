@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html
 - Published At: unknown
-- Collected At: 2026-06-05T03:59:54.846Z
+- Collected At: 2026-06-05T05:00:54.432Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Github-Action-Flaw-Let-One-375fc93aec57818595c4f25b0980ab69
 - Original Title: Claude Code Github Action Flaw Let One
 ## Summary
