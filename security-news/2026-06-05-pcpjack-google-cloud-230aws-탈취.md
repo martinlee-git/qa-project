@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html
 - Published At: unknown
-- Collected At: 2026-06-05T07:02:55.882Z
+- Collected At: 2026-06-05T08:02:55.629Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Pcpjack-Google-Cloud-230AWS-376fc93aec57810ab69bd5d702d87fe2
 - Original Title: Pcpjack Hijacks 230 Aws Google Cloud
 ## Summary
