@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html
 - Published At: unknown
-- Collected At: 2026-06-06T13:22:54.723Z
+- Collected At: 2026-06-06T14:23:54.407Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Cisa-Solarwinds-377fc93aec5781ef8cf8e96cf02131bb
 - Original Title: Cisa Adds Actively Exploited Solarwinds
 ## Summary
