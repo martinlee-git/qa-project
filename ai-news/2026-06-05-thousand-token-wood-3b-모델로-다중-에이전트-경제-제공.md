@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
 - Published At: Fri, 05 Jun 2026 22:18:46 GMT
-- Collected At: 2026-06-06T01:15:52.224Z
+- Collected At: 2026-06-06T02:16:51.946Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Thousand-Token-Wood-3B-376fc93aec5781eb96d5d7592965b53b
 - Original Title: Thousand Token Wood: shipping a multi-agent economy on a 3B model
 ## Summary
