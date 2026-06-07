@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://www.anthropic.com/news/chris-olah-pope-leo-encyclical
 - Published At: unknown
-- Collected At: 2026-06-07T09:37:08.011Z
+- Collected At: 2026-06-07T10:37:01.689Z
 - Notion Page: https://app.notion.com/p/Anthropic-News-Anthropic-Chris-Olah-14-Magnifica-humanitas-376fc93aec57814bbbe3cf6738c65781
 - Original Title: Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical "Magnifica humanitas"
 ## Summary
