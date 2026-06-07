@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/build-small-hackathon/her-blog
 - Published At: Sun, 07 Jun 2026 10:13:41 GMT
-- Collected At: 2026-06-07T10:36:50.807Z
+- Collected At: 2026-06-07T11:37:50.833Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Claude-Code-378fc93aec578186b5f8e2813310d89f
 - Original Title: Her · हेर — a detective for your Claude Code sessions
 ## Summary
