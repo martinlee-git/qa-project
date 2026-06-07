@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/
 - Published At: Thu, 21 May 2026 19:46:42 +0000
-- Collected At: 2026-06-07T22:47:51.520Z
+- Collected At: 2026-06-07T23:47:51.592Z
 - Notion Page: https://app.notion.com/p/Google-DeepMind-Google-DeepMind-Accelerator-36bfc93aec57813e9ddee4b859b13d99
 - Original Title: We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks
 ## Summary
