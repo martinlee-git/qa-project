@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures
 - Published At: Sun, 07 Jun 2026 19:44:27 GMT
-- Collected At: 2026-06-07T21:46:50.449Z
+- Collected At: 2026-06-07T22:47:50.299Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Amazing-Digital-Dentures-378fc93aec5781909302e9dbf6f5ef6f
 - Original Title: Amazing Digital Dentures (a failed project)
 ## Summary
