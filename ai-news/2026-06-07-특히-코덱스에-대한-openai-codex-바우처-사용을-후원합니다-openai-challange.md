@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers
 - Published At: Sun, 07 Jun 2026 11:38:54 GMT
-- Collected At: 2026-06-07T17:42:50.575Z
+- Collected At: 2026-06-07T18:43:50.471Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-OPENAI-CODEX-openAI-challange-378fc93aec5781699701c32edec0e793
 - Original Title: Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange
 ## Summary
