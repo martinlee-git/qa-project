@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html
 - Published At: unknown
-- Collected At: 2026-06-08T19:01:51.472Z
+- Collected At: 2026-06-08T20:02:52.276Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Instagram-379fc93aec578157894dfcb1d0138f4d
 - Original Title: Weekly Recap Instagram Account Hacks
 ## Summary
