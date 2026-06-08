@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html
 - Published At: unknown
-- Collected At: 2026-06-08T01:49:52.632Z
+- Collected At: 2026-06-08T02:50:51.779Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-AI-21-Zero-Days-In-377fc93aec578198b763e14e99239aa2
 - Original Title: Ai Agent Uncovers 21 Zero Days In
 ## Summary
