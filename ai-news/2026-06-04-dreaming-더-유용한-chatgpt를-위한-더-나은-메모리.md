@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/chatgpt-memory-dreaming
 - Published At: Thu, 04 Jun 2026 09:00:00 GMT
-- Collected At: 2026-06-08T12:58:50.063Z
+- Collected At: 2026-06-08T13:59:50.385Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-Dreaming-ChatGPT-375fc93aec57814f8a5afb44bd8fbfe8
 - Original Title: Dreaming: Better memory for a more helpful ChatGPT
 ## Summary
