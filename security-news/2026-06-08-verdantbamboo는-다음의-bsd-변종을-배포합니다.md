@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html
 - Published At: unknown
-- Collected At: 2026-06-08T11:57:53.461Z
+- Collected At: 2026-06-08T12:58:52.104Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Verdantbamboo-Bsd-379fc93aec5781f2a9d0c060a619468c
 - Original Title: Verdantbamboo Deploys Bsd Variant Of
 ## Summary
