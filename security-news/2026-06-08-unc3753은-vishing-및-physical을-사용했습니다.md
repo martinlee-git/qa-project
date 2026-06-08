@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html
 - Published At: unknown
-- Collected At: 2026-06-08T11:57:53.903Z
+- Collected At: 2026-06-08T12:58:52.744Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Unc3753-Vishing-Physical-379fc93aec57815193b6ef763df743b2
 - Original Title: Unc3753 Used Vishing And Physical
 ## Summary
