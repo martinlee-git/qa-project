@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/openenv-agentic-rl
 - Published At: Mon, 08 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-09T19:17:48.942Z
+- Collected At: 2026-06-09T20:18:49.055Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Agentic-RL-OpenEnv-379fc93aec5781af8fb5c4d8f92efacc
 - Original Title: The Open Source Community is backing OpenEnv for Agentic RL
 ## Summary
