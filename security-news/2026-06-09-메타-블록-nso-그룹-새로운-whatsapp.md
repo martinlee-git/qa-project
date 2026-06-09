@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html
 - Published At: unknown
-- Collected At: 2026-06-09T06:07:51.402Z
+- Collected At: 2026-06-09T07:08:50.600Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Nso-Whatsapp-379fc93aec57815abeb5cab3d66efc9b
 - Original Title: Meta Blocks Nso Groups New Whatsapp
 ## Summary
