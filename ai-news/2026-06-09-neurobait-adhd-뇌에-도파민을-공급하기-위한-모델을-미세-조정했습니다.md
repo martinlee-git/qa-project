@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/build-small-hackathon/neurobait-adhd
 - Published At: Tue, 09 Jun 2026 09:04:58 GMT
-- Collected At: 2026-06-09T09:10:49.044Z
+- Collected At: 2026-06-09T10:11:46.692Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-NeuroBait-ADHD-37afc93aec578164a546c2591ed4cbda
 - Original Title: NeuroBait: I fine-tuned a model to spark dopamine for ADHD brain
 ## Summary
