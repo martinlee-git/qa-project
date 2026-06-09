@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html
 - Published At: unknown
-- Collected At: 2026-06-09T11:11:47.454Z
+- Collected At: 2026-06-09T12:11:51.323Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Frost-Attack-37afc93aec5781bdb695e3586eafc445
 - Original Title: New Frost Attack Lets Websites Track
 ## Summary
