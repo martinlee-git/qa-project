@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html
 - Published At: unknown
-- Collected At: 2026-06-09T10:11:48.129Z
+- Collected At: 2026-06-09T11:11:47.835Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Hades-Pypi-Attack-19-37afc93aec57810e9a38fbb9fb447002
 - Original Title: Hades Pypi Attack 19 Packages Poisoned
 ## Summary
