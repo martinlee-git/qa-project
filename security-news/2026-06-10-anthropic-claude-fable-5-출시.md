@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html
 - Published At: unknown
-- Collected At: 2026-06-10T09:27:48.442Z
+- Collected At: 2026-06-10T10:28:49.279Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Anthropic-Claude-Fable-5-37bfc93aec5781e38384eb7330ca4a33
 - Original Title: Anthropic Releases Claude Fable 5 Its
 ## Summary
