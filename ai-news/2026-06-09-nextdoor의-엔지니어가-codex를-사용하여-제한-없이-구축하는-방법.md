@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/nextdoor
 - Published At: Tue, 09 Jun 2026 12:00:00 GMT
-- Collected At: 2026-06-10T14:31:48.358Z
+- Collected At: 2026-06-10T16:32:47.777Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-Nextdoor-Codex-37afc93aec57815195f0fe5f199deba5
 - Original Title: How engineers at Nextdoor use Codex to build without limits
 ## Summary
