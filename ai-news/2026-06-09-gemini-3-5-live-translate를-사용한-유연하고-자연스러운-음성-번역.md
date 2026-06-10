@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/
 - Published At: Tue, 09 Jun 2026 15:16:25 +0000
-- Collected At: 2026-06-10T11:29:49.067Z
+- Collected At: 2026-06-10T12:29:49.477Z
 - Notion Page: https://app.notion.com/p/Google-DeepMind-Gemini-3-5-Live-Translate-37afc93aec5781218057fd543eb15991
 - Original Title: Fluid, natural voice translation with Gemini 3.5 Live Translate
 ## Summary
