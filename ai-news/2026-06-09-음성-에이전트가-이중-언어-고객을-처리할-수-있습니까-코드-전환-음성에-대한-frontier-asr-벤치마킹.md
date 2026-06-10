@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/ServiceNow-AI/code-switching
 - Published At: Tue, 09 Jun 2026 19:38:28 GMT
-- Collected At: 2026-06-10T22:36:47.445Z
+- Collected At: 2026-06-10T23:37:47.308Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Frontier-ASR-37afc93aec5781829de4c4c424165f1b
 - Original Title: Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech
 ## Summary
