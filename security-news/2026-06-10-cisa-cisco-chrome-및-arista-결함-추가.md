@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html
 - Published At: unknown
-- Collected At: 2026-06-10T16:32:49.165Z
+- Collected At: 2026-06-10T17:33:49.143Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Cisa-Cisco-Chrome-Arista-37bfc93aec578165810fffd7fc449fd5
 - Original Title: Cisa Adds Cisco Chrome And Arista Flaws
 ## Summary
