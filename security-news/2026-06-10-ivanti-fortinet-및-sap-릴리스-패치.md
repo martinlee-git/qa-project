@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html
 - Published At: unknown
-- Collected At: 2026-06-10T19:34:48.399Z
+- Collected At: 2026-06-10T20:35:48.244Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Ivanti-Fortinet-Sap-37bfc93aec5781f9bc4acc8f73d2d5de
 - Original Title: Ivanti Fortinet And Sap Release Patches
 ## Summary
