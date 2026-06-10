@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html
 - Published At: unknown
-- Collected At: 2026-06-10T00:21:51.294Z
+- Collected At: 2026-06-10T01:21:49.619Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Microsoft-Github-37afc93aec5781758641f2cbdbf26410
 - Original Title: Microsoft Restores Some Github Repos
 ## Summary
