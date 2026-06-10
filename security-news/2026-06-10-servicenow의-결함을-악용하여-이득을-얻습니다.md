@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html
 - Published At: unknown
-- Collected At: 2026-06-10T09:27:48.811Z
+- Collected At: 2026-06-10T10:28:49.658Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Servicenow-37bfc93aec5781c49be1cd1c3dc08354
 - Original Title: Servicenow Flaw Exploited To Gain
 ## Summary
