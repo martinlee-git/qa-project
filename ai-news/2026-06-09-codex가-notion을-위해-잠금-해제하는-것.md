@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/notion
 - Published At: Tue, 09 Jun 2026 10:00:00 GMT
-- Collected At: 2026-06-10T17:33:48.034Z
+- Collected At: 2026-06-10T18:34:47.929Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-Codex-Notion-37afc93aec5781db9279ff888efe399d
 - Original Title: What Codex unlocks for Notion
 ## Summary
