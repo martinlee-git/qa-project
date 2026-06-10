@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/
 - Published At: Fri, 29 May 2026 19:00:00 +0000
-- Collected At: 2026-06-10T04:23:50.093Z
+- Collected At: 2026-06-10T05:24:50.089Z
 - Notion Page: https://app.notion.com/p/Google-AI-Blog-Google-AI-Studio-I-O-2026-36ffc93aec578196a6d3fff5e6f96ddb
 - Original Title: Take our I/O 2026 quiz, vibe coded in Google AI Studio.
 ## Summary
