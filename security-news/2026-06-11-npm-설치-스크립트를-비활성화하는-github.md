@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html
 - Published At: unknown
-- Collected At: 2026-06-11T08:41:46.421Z
+- Collected At: 2026-06-11T09:41:47.773Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Npm-Github-37cfc93aec5781a5999cf47d76a5c646
 - Original Title: Github To Disable Npm Install Scripts
 ## Summary
