@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html
 - Published At: unknown
-- Collected At: 2026-06-11T14:45:47.560Z
+- Collected At: 2026-06-11T15:46:47.911Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Oceanlotus-37cfc93aec578110b2f1e84c8558b062
 - Original Title: Oceanlotus Hits Vietnam Investors With
 ## Summary
