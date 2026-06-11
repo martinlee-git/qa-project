@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/torch-mlp-fusion
 - Published At: Thu, 11 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-11T22:49:46.466Z
+- Collected At: 2026-06-11T23:50:44.346Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-PyTorch-2-nn-Linear-Fused-MLP-37cfc93aec5781138de0dbcbd8906cec
 - Original Title: Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP
 ## Summary
