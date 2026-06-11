@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/openai-on-oracle-cloud
 - Published At: Wed, 10 Jun 2026 20:00:00 GMT
-- Collected At: 2026-06-11T01:38:47.197Z
+- Collected At: 2026-06-11T02:38:47.401Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-Oracle-Cloud-OpenAI-Codex-37bfc93aec578125a38ffbd7371b1dd4
 - Original Title: Access OpenAI models and Codex through your Oracle cloud commitment
 ## Summary
