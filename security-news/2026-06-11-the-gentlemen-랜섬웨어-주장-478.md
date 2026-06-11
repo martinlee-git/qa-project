@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html
 - Published At: unknown
-- Collected At: 2026-06-11T17:46:48.296Z
+- Collected At: 2026-06-11T18:47:49.678Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-The-Gentlemen-478-37cfc93aec5781b3b57edbee46875e51
 - Original Title: The Gentlemen Ransomware Claims 478
 ## Summary
