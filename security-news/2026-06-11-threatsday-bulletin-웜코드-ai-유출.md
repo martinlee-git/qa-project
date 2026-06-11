@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html
 - Published At: unknown
-- Collected At: 2026-06-11T15:46:46.323Z
+- Collected At: 2026-06-11T16:46:47.827Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Threatsday-Bulletin-Ai-37cfc93aec57816fb861dc3bb05630d5
 - Original Title: Threatsday Bulletin Worm Code Leaked Ai
 ## Summary
