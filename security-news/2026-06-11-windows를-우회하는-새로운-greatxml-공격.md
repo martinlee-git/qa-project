@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html
 - Published At: unknown
-- Collected At: 2026-06-11T18:47:48.368Z
+- Collected At: 2026-06-11T19:48:47.453Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Windows-Greatxml-37cfc93aec578136a528c4d46e8b27ed
 - Original Title: New Greatxml Exploit Bypasses Windows
 ## Summary
