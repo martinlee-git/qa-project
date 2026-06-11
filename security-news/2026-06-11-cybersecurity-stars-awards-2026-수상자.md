@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html
 - Published At: unknown
-- Collected At: 2026-06-11T15:46:45.082Z
+- Collected At: 2026-06-11T16:46:47.286Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Cybersecurity-Stars-Awards-2026-37cfc93aec5781a5b286e2fef31ad37e
 - Original Title: Cybersecurity Stars Awards 2026 Winners
 ## Summary
