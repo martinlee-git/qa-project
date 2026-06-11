@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html
 - Published At: unknown
-- Collected At: 2026-06-11T21:49:46.525Z
+- Collected At: 2026-06-11T22:49:46.741Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Shinyhunters-Oracle-Peoplesoft-37cfc93aec57815fb975c38722430eed
 - Original Title: Shinyhunters Exploits Oracle Peoplesoft
 ## Summary
