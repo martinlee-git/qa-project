@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html
 - Published At: unknown
-- Collected At: 2026-06-12T15:00:47.705Z
+- Collected At: 2026-06-12T16:00:47.461Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Langgraph-37dfc93aec5781d899d1d581ea84904e
 - Original Title: Langgraph Flaw Chain Exposes Self
 ## Summary
