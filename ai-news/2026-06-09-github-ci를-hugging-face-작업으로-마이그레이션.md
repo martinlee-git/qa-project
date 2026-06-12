@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/github-ci-hf-jobs
 - Published At: Tue, 09 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-12T09:56:47.456Z
+- Collected At: 2026-06-12T10:57:47.117Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-GitHub-CI-Hugging-Face-37afc93aec57813da91ef81440e769b4
 - Original Title: Migrating Your GitHub CI to Hugging Face Jobs
 ## Summary
