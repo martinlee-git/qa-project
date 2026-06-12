@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/CohereLabs/introducing-north-mini-code
 - Published At: Tue, 09 Jun 2026 15:56:23 GMT
-- Collected At: 2026-06-12T02:51:47.266Z
+- Collected At: 2026-06-12T03:52:46.799Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-North-Mini-Code-Cohere-37afc93aec5781558ebdc8ab22108578
 - Original Title: Introducing North Mini Code: Cohere’s First Model For Developers
 ## Summary
