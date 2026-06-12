@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/bbva
 - Published At: Thu, 11 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-12T04:53:46.588Z
+- Collected At: 2026-06-12T05:53:46.654Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-BBVA-OpenAI-AI-37cfc93aec578144be21dbe9b1713eee
 - Original Title: BBVA puts AI at the core of banking with OpenAI
 ## Summary
