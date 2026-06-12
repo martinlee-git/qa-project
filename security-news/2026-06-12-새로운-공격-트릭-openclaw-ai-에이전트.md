@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html
 - Published At: unknown
-- Collected At: 2026-06-12T00:50:47.243Z
+- Collected At: 2026-06-12T01:50:47.270Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Openclaw-Ai-37cfc93aec5781b39aeecc34a6dae436
 - Original Title: New Attacks Trick Openclaw Ai Agent
 ## Summary
