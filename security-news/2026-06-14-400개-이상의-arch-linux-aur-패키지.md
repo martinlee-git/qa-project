@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html
 - Published At: unknown
-- Collected At: 2026-06-14T07:26:45.504Z
+- Collected At: 2026-06-14T08:27:45.592Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-400-Arch-Linux-Aur-37dfc93aec5781f28e47f591c3f6cbd4
 - Original Title: Over 400 Arch Linux Aur Packages
 ## Summary
