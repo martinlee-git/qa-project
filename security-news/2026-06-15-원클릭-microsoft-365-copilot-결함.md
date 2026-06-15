@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html
 - Published At: unknown
-- Collected At: 2026-06-15T15:49:44.750Z
+- Collected At: 2026-06-15T16:50:44.019Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Microsoft-365-Copilot-380fc93aec5781c7b459f4b50c6dbe77
 - Original Title: One Click Microsoft 365 Copilot Flaw
 ## Summary
