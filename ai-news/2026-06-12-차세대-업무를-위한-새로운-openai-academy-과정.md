@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/academy-courses-applying-ai-at-work
 - Published At: Fri, 12 Jun 2026 10:00:00 GMT
-- Collected At: 2026-06-15T19:52:44.256Z
+- Collected At: 2026-06-15T20:52:43.215Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-OpenAI-Academy-37dfc93aec5781c7a4aacc81fe91a548
 - Original Title: New OpenAI Academy courses for the next era of work
 ## Summary
