@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/openai-to-acquire-ona
 - Published At: Thu, 11 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-15T01:39:43.806Z
+- Collected At: 2026-06-15T02:40:44.187Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-OpenAI-Ona-37cfc93aec578140a23fdd67c3b3b387
 - Original Title: OpenAI to acquire Ona
 ## Summary
