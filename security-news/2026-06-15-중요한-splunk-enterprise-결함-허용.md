@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html
 - Published At: unknown
-- Collected At: 2026-06-15T08:44:47.602Z
+- Collected At: 2026-06-15T09:44:44.677Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Splunk-Enterprise-37efc93aec5781aca5cbe105581c0779
 - Original Title: Critical Splunk Enterprise Flaw Lets
 ## Summary
