@@ -3,11 +3,11 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html
 - Published At: unknown
-- Collected At: 2026-06-15T14:48:44.138Z
+- Collected At: 2026-06-15T15:49:45.229Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Chrome-0-Day-Unifi-380fc93aec57810f8863f57200e70e52
 - Original Title: Weekly Recap Chrome 0 Day Unifi
 ## Summary
-이번 주 요약에서는 악용된 결함, 공급망 공격, 피싱 키트, AI 미끼, macOS 스틸러, 긴급 CVE, 도구 및 웹 세미나를 다룹니다. 물건이 또 부러졌어요. 영화 방식이 아닙니다. An old tool was left exposed. 버려진 패키지가 남용되었습니다. 더 이상 사용되지 않는 기능이 여전히 prod에서 실행 중이었습니다. 이번 주는 새로운 형태의 동일한 교훈입니다. 피싱 키트는 임대하기가 더 쉽고, AI 이름은 유용한 미끼이며, 오래된 로그인 경로는 여전히 실패하고, 잊어버린 소프트웨어는 계속해서 다른 사람의 진입점이 됩니다. 이번 주에 시간을 할애할 가치가 있는 뉴스, 도구, 웹 세미나 및 수정 사항을 보려면 아래 월요일 사이버 보안 요약 전체를 스크롤하세요. Google 패치는 Chrome 0-Day를 적극적으로 악용했습니다. Google은 광고에 대한 보안 업데이트를 출시했습니다…
+이번 주 요약에서는 악용된 결함, 공급망 공격, 피싱 키트, AI 미끼, macOS 스틸러, 긴급 CVE, 도구 및 웹 세미나를 다룹니다. 물건이 또 부러졌어요. 영화 방식이 아닙니다. 오래된 도구가 노출된 채로 남아 있었습니다. 버려진 패키지가 남용되었습니다. 더 이상 사용되지 않는 기능이 여전히 prod에서 실행 중이었습니다. 이번 주는 새로운 형태의 동일한 교훈입니다. 피싱 키트는 임대하기가 더 쉽고, AI 이름은 유용한 미끼이며, 오래된 로그인 경로는 여전히 실패하고, 잊어버린 소프트웨어는 계속해서 다른 사람의 진입점이 됩니다. 이번 주에 시간을 할애할 가치가 있는 뉴스, 도구, 웹 세미나 및 수정 사항을 보려면 아래 월요일 사이버 보안 요약 전체를 스크롤하세요. Google 패치는 Chrome 0-Day를 적극적으로 악용했습니다. Google은 광고에 대한 보안 업데이트를 출시했습니다…
 
 ## Original Description
 
