@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html
 - Published At: unknown
-- Collected At: 2026-06-15T13:47:44.765Z
+- Collected At: 2026-06-15T14:48:45.688Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-WordPress-380fc93aec57819ab7ebca3180e3dad2
 - Original Title: Popular Wordpress Plugin Scripts
 ## Summary
