@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://www.anthropic.com/news/fable-mythos-access
 - Published At: unknown
-- Collected At: 2026-06-15T16:50:48.579Z
+- Collected At: 2026-06-15T17:51:45.423Z
 - Notion Page: https://app.notion.com/p/Anthropic-News-Fable-5-Mythos-5-37efc93aec5781e8a12ee17fbaf7c7da
 - Original Title: Statement on the US government directive to suspend access to Fable 5 and Mythos 5
 ## Summary
