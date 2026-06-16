@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html
 - Published At: unknown
-- Collected At: 2026-06-16T09:01:44.290Z
+- Collected At: 2026-06-16T10:02:44.144Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Cisa-Flags-Litespeed-Cpanel-381fc93aec5781249696ee5653e49982
 - Original Title: Cisa Flags Litespeed Cpanel Plugin Flaw
 ## Summary
