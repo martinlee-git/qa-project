@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html
 - Published At: unknown
-- Collected At: 2026-06-16T11:02:42.916Z
+- Collected At: 2026-06-16T12:03:43.156Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Three-Fortinet-381fc93aec5781ba8e33ede88627a35b
 - Original Title: Attackers Exploit Three Fortinet
 ## Summary
