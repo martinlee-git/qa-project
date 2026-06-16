@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html
 - Published At: unknown
-- Collected At: 2026-06-16T07:01:46.040Z
+- Collected At: 2026-06-16T08:01:43.826Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Google-Workspace-380fc93aec5781d49069e833da6a1b02
 - Original Title: Chinese Hackers Abused Google Workspace
 ## Summary
