@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://www.anthropic.com/news/expanding-project-glasswing
 - Published At: unknown
-- Collected At: 2026-06-16T20:10:55.035Z
+- Collected At: 2026-06-16T21:11:41.791Z
 - Notion Page: https://app.notion.com/p/Anthropic-News-Glasswing-376fc93aec578181b5d9c24bb91885e6
 - Original Title: Expanding Project Glasswing
 ## Summary
