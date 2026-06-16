@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html
 - Published At: unknown
-- Collected At: 2026-06-16T12:03:43.937Z
+- Collected At: 2026-06-16T13:03:46.980Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Microsoft-381fc93aec5781dfab81f62f73d3ac21
 - Original Title: Fake Microsoft Alerts Used To Deploy
 ## Summary
