@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html
 - Published At: unknown
-- Collected At: 2026-06-16T18:08:43.282Z
+- Collected At: 2026-06-16T19:09:43.716Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Rokarolla-Android-381fc93aec578198bc92eaea3283beea
 - Original Title: New Rokarolla Android Malware Steals
 ## Summary
