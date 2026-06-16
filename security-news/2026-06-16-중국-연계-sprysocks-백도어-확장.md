@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html
 - Published At: unknown
-- Collected At: 2026-06-16T14:04:44.141Z
+- Collected At: 2026-06-16T15:05:43.931Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Sprysocks-381fc93aec5781c6afb7c76335ce1686
 - Original Title: China Linked Sprysocks Backdoor Expands
 ## Summary
