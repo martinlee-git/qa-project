@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html
 - Published At: unknown
-- Collected At: 2026-06-17T09:20:40.663Z
+- Collected At: 2026-06-17T10:20:43.082Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Google-Vertex-Ai-SDK-381fc93aec5781a587dae244a82845be
 - Original Title: Google Vertex Ai Sdk Flaw Let Attackers
 ## Summary
