@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html
 - Published At: unknown
-- Collected At: 2026-06-17T15:23:42.451Z
+- Collected At: 2026-06-17T16:24:42.109Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Jetbrains-Ai-382fc93aec578108b179d62353320e8b
 - Original Title: Malicious Jetbrains Plugins Steal Ai
 ## Summary
