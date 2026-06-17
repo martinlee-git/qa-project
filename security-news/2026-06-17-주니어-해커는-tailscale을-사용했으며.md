@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html
 - Published At: unknown
-- Collected At: 2026-06-17T21:28:42.544Z
+- Collected At: 2026-06-17T22:29:43.038Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Tailscale-382fc93aec5781caa804c08ecde93327
 - Original Title: Junior Hacker Used Tailscale And
 ## Summary
