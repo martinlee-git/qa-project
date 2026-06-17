@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html
 - Published At: unknown
-- Collected At: 2026-06-17T09:20:40.211Z
+- Collected At: 2026-06-17T10:20:42.713Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Cisa-Joomla-382fc93aec578135a7bce0428fecf45d
 - Original Title: Cisa Warns Of Actively Exploited Joomla
 ## Summary
