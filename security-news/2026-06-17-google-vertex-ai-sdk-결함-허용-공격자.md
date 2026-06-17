@@ -3,17 +3,17 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html
 - Published At: unknown
-- Collected At: 2026-06-17T05:17:42.029Z
+- Collected At: 2026-06-17T06:17:42.564Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Google-Vertex-Ai-SDK-381fc93aec5781a587dae244a82845be
 - Original Title: Google Vertex Ai Sdk Flaw Let Attackers
 ## Summary
-Google은 Unit 42에서 버킷 스쿼트를 통해 모델 하이재킹 및 코드 실행이 가능하다는 사실을 확인한 후 v1.148.0의 Vertex AI SDK 결함을 수정했습니다. Python용 Google Cloud Vertex AI SDK의 결함으로 인해 피해자의 프로젝트에 액세스할 수 없는 공격자가 피해자의 기계 학습 모델 업로드를 가로채고 Google 서비스 인프라 내에서 코드를 실행할 수 있습니다. 구글의 버그 바운티 프로그램을 통해 버그를 발견해 보고한 팔로알토 네트웍스 유닛 42는 이 기술을 '피클 인 더 미들(Pickle in the Middle)'이라고 부르며, 실제로는 악용 사례가 발견되지 않았다고 밝혔다. Google이 이를 패치했습니다. SDK를 사용하는 경우 버전 1.148.0 이상으로 업데이트하세요. 공격자는 자신의 Google Cloud 프로젝트와 피해자의 프로젝트 ID만 있으면 됩니다.
+Google은 Unit 42에서 버킷 스쿼트가 모델 하이재킹 및 코드 실행을 활성화할 수 있음을 보여준 후 v1.148.0의 Vertex AI SDK 결함을 수정했습니다. Python용 Google Cloud Vertex AI SDK의 결함으로 인해 피해자의 프로젝트에 액세스할 수 없는 공격자가 피해자의 기계 학습 모델 업로드를 가로채고 Google 서비스 인프라 내에서 코드를 실행할 수 있습니다. 구글의 버그 바운티 프로그램을 통해 버그를 발견해 보고한 팔로알토 네트웍스 유닛 42는 이 기술을 '피클 인 더 미들(Pickle in the Middle)'이라고 부르며, 실제로는 악용 사례가 발견되지 않았다고 밝혔다. Google이 이를 패치했습니다. SDK를 사용하는 경우 버전 1.148.0 이상으로 업데이트하세요. 공격자는 자신의 Google Cloud 프로젝트와 피해자의 프로젝트 ID만 있으면 됩니다.
 
 ## Original Description
 
 Google fixed a Vertex AI SDK flaw in v1.148.0 after Unit 42 showed bucket squatting could enable model hijacking and code execution.
 ## Key Points
-- Google은 Unit 42에서 버킷 스쿼트를 통해 모델 하이재킹 및 코드 실행이 가능하다는 사실을 확인한 후 v1.148.0의 Vertex AI SDK 결함을 수정했습니다.
+- Google은 Unit 42에서 버킷 스쿼트가 모델 하이재킹 및 코드 실행을 활성화할 수 있음을 보여준 후 v1.148.0의 Vertex AI SDK 결함을 수정했습니다.
 - Python용 Google Cloud Vertex AI SDK의 결함으로 인해 피해자의 프로젝트에 액세스할 수 없는 공격자가 피해자의 기계 학습 모델 업로드를 가로채고 Google 서비스 인프라 내에서 코드를 실행할 수 있습니다.
 - 구글의 버그 바운티 프로그램을 통해 버그를 발견해 보고한 팔로알토 네트웍스 유닛 42는 이 기술을 '피클 인 더 미들(Pickle in the Middle)'이라고 부르며, 실제로는 악용 사례가 발견되지 않았다고 밝혔다.
 ## Excerpt
