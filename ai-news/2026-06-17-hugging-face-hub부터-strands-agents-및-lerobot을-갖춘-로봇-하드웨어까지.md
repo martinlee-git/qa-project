@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware
 - Published At: Wed, 17 Jun 2026 10:18:05 GMT
-- Collected At: 2026-06-18T03:33:41.383Z
+- Collected At: 2026-06-18T04:34:41.060Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Hugging-Face-Hub-Strands-Agents-LeRobot-382fc93aec57810d9bd5e52cac309d61
 - Original Title: From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot
 ## Summary
