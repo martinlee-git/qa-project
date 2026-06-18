@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html
 - Published At: unknown
-- Collected At: 2026-06-18T03:33:41.684Z
+- Collected At: 2026-06-18T04:34:41.478Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Microsoft-Rogueplanet-Defender_02022423645-382fc93aec578171a3b8fff42d6ffa53
 - Original Title: Microsoft Confirms Rogueplanet Defender_02022423645
 ## Summary
