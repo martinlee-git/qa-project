@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html
 - Published At: unknown
-- Collected At: 2026-06-18T13:39:40.992Z
+- Collected At: 2026-06-18T14:40:43.075Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Dragonforce-Microsoft-383fc93aec57818fbc57f101371c1c56
 - Original Title: Dragonforce Hackers Abuse Microsoft
 ## Summary
