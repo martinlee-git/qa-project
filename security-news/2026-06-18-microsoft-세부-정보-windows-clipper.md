@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html
 - Published At: unknown
-- Collected At: 2026-06-18T19:44:42.007Z
+- Collected At: 2026-06-18T20:45:44.066Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Microsoft-Windows-Clipper-383fc93aec5781f88ab2c7d09288eba3
 - Original Title: Microsoft Details Windows Clipper
 ## Summary
