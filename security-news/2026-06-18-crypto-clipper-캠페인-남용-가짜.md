@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html
 - Published At: unknown
-- Collected At: 2026-06-18T09:37:41.634Z
+- Collected At: 2026-06-18T10:37:42.109Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Crypto-Clipper-382fc93aec5781f4b5ead76b5d959ea7
 - Original Title: Crypto Clipper Campaign Abuses Fake
 ## Summary
