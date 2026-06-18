@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html
 - Published At: unknown
-- Collected At: 2026-06-18T20:45:41.158Z
+- Collected At: 2026-06-18T21:46:41.799Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-F5-Nginx-Open-383fc93aec57814cacfacd8370c5d8db
 - Original Title: F5 Patches Two Critical Nginx Open
 ## Summary
