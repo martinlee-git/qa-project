@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/introducing-life-sci-bench
 - Published At: Wed, 17 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-18T01:32:40.890Z
+- Collected At: 2026-06-18T02:33:40.931Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-LifeSciBench-382fc93aec57818fa335e79c2bfab887
 - Original Title: Introducing LifeSciBench
 ## Summary
