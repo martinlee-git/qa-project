@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html
 - Published At: unknown
-- Collected At: 2026-06-19T16:57:40.734Z
+- Collected At: 2026-06-19T17:58:40.476Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Cisa-Fortinet-384fc93aec5781ef81d7c35990d27c41
 - Original Title: Cisa Warns Fortinet Customers As
 ## Summary
