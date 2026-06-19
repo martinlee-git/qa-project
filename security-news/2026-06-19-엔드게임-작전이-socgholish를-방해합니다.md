@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html
 - Published At: unknown
-- Collected At: 2026-06-19T16:57:40.357Z
+- Collected At: 2026-06-19T17:58:40.105Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Socgholish-384fc93aec5781f1a1c6d79d7387ea57
 - Original Title: Operation Endgame Disrupts Socgholish
 ## Summary
