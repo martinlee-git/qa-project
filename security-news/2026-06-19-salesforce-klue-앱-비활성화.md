@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/salesforce-disables-klue-app.html
 - Published At: unknown
-- Collected At: 2026-06-19T09:53:40.170Z
+- Collected At: 2026-06-19T10:54:40.327Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Salesforce-Klue-384fc93aec578179812ef029e4057dc3
 - Original Title: Salesforce Disables Klue App
 ## Summary
