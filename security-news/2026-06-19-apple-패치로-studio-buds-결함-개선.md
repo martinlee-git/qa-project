@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html
 - Published At: unknown
-- Collected At: 2026-06-19T07:52:40.382Z
+- Collected At: 2026-06-19T08:53:40.386Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Apple-Studio-Buds-384fc93aec5781b49979f0f17557ac22
 - Original Title: Apple Patches Beats Studio Buds Flaw
 ## Summary
