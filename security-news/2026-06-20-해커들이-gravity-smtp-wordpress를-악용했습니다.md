@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html
 - Published At: unknown
-- Collected At: 2026-06-20T17:16:40.454Z
+- Collected At: 2026-06-20T18:17:38.692Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Gravity-SMTP-Wordpress-385fc93aec578179825ac95056a49f7a
 - Original Title: Hackers Exploit Gravity Smtp Wordpress
 ## Summary
