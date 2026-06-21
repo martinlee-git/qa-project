@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/allenai/molmomotion
 - Published At: Wed, 17 Jun 2026 15:26:44 GMT
-- Collected At: 2026-06-21T20:37:38.315Z
+- Collected At: 2026-06-21T21:37:38.333Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-MolmoMotion-3D-382fc93aec578148a22ac54f9ef84cff
 - Original Title: MolmoMotion: Language-guided 3D motion forecasting
 ## Summary
