@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/ServiceNow/mosaicleaks
 - Published At: Thu, 18 Jun 2026 18:13:13 GMT
-- Collected At: 2026-06-21T21:37:37.483Z
+- Collected At: 2026-06-21T22:38:37.261Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-mosaicLeaks-383fc93aec57819e9074c21f9d7df5d7
 - Original Title: MosaicLeaks: Can your research agent keep a secret?
 ## Summary
