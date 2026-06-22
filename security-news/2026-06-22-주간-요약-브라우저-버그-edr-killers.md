@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html
 - Published At: unknown
-- Collected At: 2026-06-22T12:48:38.349Z
+- Collected At: 2026-06-22T13:49:38.441Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Edr-Killers-387fc93aec5781a1b7d3e64bf4734c8b
 - Original Title: Weekly Recap Browser Bugs Edr Killers
 ## Summary
