@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/
 - Published At: Wed, 10 Jun 2026 16:24:11 +0000
-- Collected At: 2026-06-22T06:43:39.658Z
+- Collected At: 2026-06-22T07:44:39.619Z
 - Notion Page: https://app.notion.com/p/Google-DeepMind-DiffusionGemma-4-37bfc93aec5781679468f3a32fa23158
 - Original Title: DiffusionGemma: 4x faster text generation
 ## Summary
