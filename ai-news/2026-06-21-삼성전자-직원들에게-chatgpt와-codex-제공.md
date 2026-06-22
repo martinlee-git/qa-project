@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
 - Published At: Sun, 21 Jun 2026 23:00:00 GMT
-- Collected At: 2026-06-22T19:54:32.616Z
+- Collected At: 2026-06-22T20:54:36.676Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-ChatGPT-Codex-386fc93aec5781dfb826fca9a95a5a34
 - Original Title: Samsung Electronics brings ChatGPT and Codex to employees
 ## Summary
