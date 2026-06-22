@@ -3,17 +3,17 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html
 - Published At: unknown
-- Collected At: 2026-06-22T18:53:34.032Z
+- Collected At: 2026-06-22T19:54:34.135Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Oxloader-Loader-387fc93aec578108ae34eb30373f27b8
 - Original Title: New Oxloader Loader Uses Malicious
 ## Summary
-연구원들은 CastleStealer를 배포하기 위해 가짜 Node.js 광고, Storj 호스팅 페이로드 및 OXLOADER를 사용하는 악성 광고 캠페인인 REF8372에 대해 자세히 설명합니다. 사이버 보안 연구원들은 이전에 보고되지 않은 OXLOADER라는 악성 코드 로더를 통해 CastleStealer를 전달하는 새로운 캠페인의 세부 정보를 공개했습니다. Elastic Security Labs에 따르면 이 캠페인은 악성 Google Ads를 악성코드 배포의 출발점으로 활용합니다. 증거에 따르면 독립 국가 연합(CIS) 지역에 위치한 시스템 감염을 방지하기 위한 명시적인 제외가 존재하기 때문에 위협 행위자가 러시아어를 사용하고 금전적인 동기를 갖고 있을 가능성이 높습니다. 캠페인의 코드명은 REF83입니다…
+연구원들은 가짜 Node.js 광고, Storj 호스팅 페이로드 및 OXLOADER를 사용하여 CastleStealer를 배포하는 악성 광고 캠페인인 REF8372에 대해 자세히 설명합니다. 사이버 보안 연구원들은 이전에 보고되지 않은 OXLOADER라는 악성 코드 로더를 통해 CastleStealer를 전달하는 새로운 캠페인의 세부 정보를 공개했습니다. Elastic Security Labs에 따르면 이 캠페인은 악성 Google Ads를 악성코드 배포의 출발점으로 활용합니다. 증거에 따르면 독립 국가 연합(CIS) 지역에 위치한 시스템 감염을 방지하기 위한 명시적인 제외가 존재하기 때문에 위협 행위자가 러시아어를 사용하고 금전적인 동기를 갖고 있을 가능성이 높습니다. 캠페인의 코드명은 REF83입니다…
 
 ## Original Description
 
 Researchers detail REF8372, a malvertising campaign using fake Node.js ads, Storj-hosted payloads, and OXLOADER to deploy CastleStealer.
 ## Key Points
-- 연구원들은 CastleStealer를 배포하기 위해 가짜 Node.js 광고, Storj 호스팅 페이로드 및 OXLOADER를 사용하는 악성 광고 캠페인인 REF8372에 대해 자세히 설명합니다.
+- 연구원들은 가짜 Node.js 광고, Storj 호스팅 페이로드 및 OXLOADER를 사용하여 CastleStealer를 배포하는 악성 광고 캠페인인 REF8372에 대해 자세히 설명합니다.
 - 사이버 보안 연구원들은 이전에 보고되지 않은 OXLOADER라는 악성 코드 로더를 통해 CastleStealer를 전달하는 새로운 캠페인의 세부 정보를 공개했습니다.
 - Elastic Security Labs에 따르면 이 캠페인은 악성 Google Ads를 악성코드 배포의 출발점으로 활용합니다.
 ## Excerpt
