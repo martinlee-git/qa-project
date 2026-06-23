@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/gpt-5-immunology-mystery
 - Published At: Tue, 23 Jun 2026 17:00:00 GMT
-- Collected At: 2026-06-23T20:11:31.394Z
+- Collected At: 2026-06-23T21:11:33.530Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-GPT-5-Derya-Unutmaz-3-388fc93aec578160b5baee5bbe438bc7
 - Original Title: How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery
 ## Summary
