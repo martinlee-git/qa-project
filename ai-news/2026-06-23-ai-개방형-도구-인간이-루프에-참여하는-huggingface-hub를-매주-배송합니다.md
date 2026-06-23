@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/huggingface-hub-release-ci
 - Published At: Tue, 23 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-23T20:11:31.671Z
+- Collected At: 2026-06-23T21:11:33.760Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-AI-Huggingface_hub-388fc93aec57810eb6b6eea38428e0cf
 - Original Title: Shipping huggingface_hub every week with AI, open tools, and a human in the loop
 ## Summary
