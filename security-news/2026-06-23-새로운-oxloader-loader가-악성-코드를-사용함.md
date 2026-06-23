@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html
 - Published At: unknown
-- Collected At: 2026-06-23T01:58:37.620Z
+- Collected At: 2026-06-23T02:59:37.708Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Oxloader-Loader-387fc93aec578108ae34eb30373f27b8
 - Original Title: New Oxloader Loader Uses Malicious
 ## Summary
