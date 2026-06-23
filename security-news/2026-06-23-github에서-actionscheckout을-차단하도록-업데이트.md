@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html
 - Published At: unknown
-- Collected At: 2026-06-23T19:10:37.132Z
+- Collected At: 2026-06-23T20:11:32.721Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Github-Actionscheckout-388fc93aec578165aa9dd65bebaaa918
 - Original Title: Github Updates Actionscheckout To Block
 ## Summary
