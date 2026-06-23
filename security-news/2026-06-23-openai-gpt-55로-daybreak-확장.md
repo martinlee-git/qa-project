@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html
 - Published At: unknown
-- Collected At: 2026-06-23T12:06:35.338Z
+- Collected At: 2026-06-23T13:06:37.544Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Openai-Gpt-55-Daybreak-388fc93aec57814ab595de72854d3be2
 - Original Title: Openai Expands Daybreak With Gpt 55
 ## Summary
