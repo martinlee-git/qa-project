@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html
 - Published At: unknown
-- Collected At: 2026-06-23T07:02:37.483Z
+- Collected At: 2026-06-23T08:03:38.156Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Shapedplugin-Wordpress-Pro-387fc93aec5781029174d33d6e0fc8e0
 - Original Title: Shapedplugin Wordpress Pro Plugins
 ## Summary
