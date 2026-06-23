@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/patch-the-planet
 - Published At: Mon, 22 Jun 2026 10:00:00 GMT
-- Collected At: 2026-06-23T08:03:36.120Z
+- Collected At: 2026-06-23T09:04:36.086Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-Patch-the-Planet-Daybreak-387fc93aec578189b7dafade2fe6423d
 - Original Title: Patch the Planet: a Daybreak initiative to support open source maintainers
 ## Summary
