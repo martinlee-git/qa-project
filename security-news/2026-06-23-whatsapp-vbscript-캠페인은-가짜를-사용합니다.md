@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html
 - Published At: unknown
-- Collected At: 2026-06-23T09:04:36.765Z
+- Collected At: 2026-06-23T10:05:33.690Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Whatsapp-Vbscript-388fc93aec57815293c8c4cb9384bde0
 - Original Title: Whatsapp Vbscript Campaign Uses Fake
 ## Summary
