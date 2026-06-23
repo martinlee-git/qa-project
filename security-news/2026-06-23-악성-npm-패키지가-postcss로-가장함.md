@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html
 - Published At: unknown
-- Collected At: 2026-06-23T13:06:36.777Z
+- Collected At: 2026-06-23T14:07:34.437Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Npm-Postcss-388fc93aec57817a9e9cf7d17da97d29
 - Original Title: Malicious Npm Packages Pose As Postcss
 ## Summary
