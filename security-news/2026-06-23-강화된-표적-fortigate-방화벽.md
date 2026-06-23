@@ -3,7 +3,7 @@
 - Category: security_news
 - Original URL: https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html
 - Published At: unknown
-- Collected At: 2026-06-23T20:11:31.622Z
+- Collected At: 2026-06-23T21:11:33.849Z
 - Notion Page: https://app.notion.com/p/The-Hacker-News-Fortigate-388fc93aec578137bc15e8774f9403bc
 - Original Title: Fortibleed Targeted Fortigate Firewalls
 ## Summary
