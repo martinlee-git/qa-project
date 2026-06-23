@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://openai.com/index/codex-maxxing-long-running-work
 - Published At: Mon, 22 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-23T08:03:36.177Z
+- Collected At: 2026-06-23T09:04:36.152Z
 - Notion Page: https://app.notion.com/p/OpenAI-News-Codex-maxxing-387fc93aec57815b9639e8715ea1b9f4
 - Original Title: Codex-maxxing for long-running work
 ## Summary
