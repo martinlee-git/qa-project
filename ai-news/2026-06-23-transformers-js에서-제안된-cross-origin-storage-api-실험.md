@@ -3,7 +3,7 @@
 - Category: ai_news
 - Original URL: https://huggingface.co/blog/cross-origin-storage
 - Published At: Tue, 23 Jun 2026 00:00:00 GMT
-- Collected At: 2026-06-24T01:14:36.087Z
+- Collected At: 2026-06-24T02:15:35.873Z
 - Notion Page: https://app.notion.com/p/Hugging-Face-Blog-Transformers-js-Cross-Origin-Storage-API-388fc93aec5781f1aaa2d2fcdc0f927b
 - Original Title: Experimenting with the proposed Cross-Origin Storage API in Transformers.js
 ## Summary
